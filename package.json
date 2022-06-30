@@ -1,0 +1,17 @@
+{
+  "name": "@zhengbangbo/eslint-config-monorepo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zhengbangbo/eslint-config",
+  "packageManager": "pnpm@7.4.0",
+  "author": "Bang-Bo Zheng <zhengbangbo@hotmail.com> (https://github.com/zhengbangbo)",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "release": "bumpp package.json packages/*/package.json --commit --push --tag && pnpm -r publish --access public"
+  },
+  "devDependencies": {
+    "@zhengbangbo/eslint-config": "*",
+    "bumpp": "^8.2.1",
+    "eslint": "^8.18.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@zhengbangbo/eslint-config-basic",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zhengbangbo/eslint-config",
+  "packageManager": "pnpm@7.4.0",
+  "author": "Bang-Bo Zheng <zhengbangbo@hotmail.com> (https://github.com/zhengbangbo)",
+  "license": "MIT",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "dependencies": {
+    "eslint-plugin-zhengbangbo": "workspace:*",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsonc": "^2.2.1",
+    "eslint-plugin-markdown": "^2.2.1",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-unicorn": "^42.0.0",
+    "eslint-plugin-yml": "^1.0.0",
+    "jsonc-eslint-parser": "^2.1.0",
+    "yaml-eslint-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
