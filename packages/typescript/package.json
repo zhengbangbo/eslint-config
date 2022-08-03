@@ -12,13 +12,10 @@
   "files": [
     "index.js"
   ],
-  "scripts": {
-    "lint": "eslint . --config=index.js"
-  },
   "dependencies": {
-    "@zhengbangbo/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
-    "@typescript-eslint/parser": "^5.26.0"
+    "@typescript-eslint/parser": "^5.26.0",
+    "@zhengbangbo/eslint-config-basic": "workspace:*"
   },
   "devDependencies": {
     "eslint": "^8.16.0"

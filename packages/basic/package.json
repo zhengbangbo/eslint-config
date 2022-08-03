@@ -12,9 +12,6 @@
   "files": [
     "*.js"
   ],
-  "scripts": {
-    "lint": "eslint . --config=index.js"
-  },
   "dependencies": {
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
