@@ -1,6 +1,6 @@
 {
   "name": "@zhengbangbo/eslint-config-basic",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "packageManager": "pnpm@7.4.0",
   "author": "Bang-Bo Zheng <zhengbangbo@hotmail.com> (https://github.com/zhengbangbo)",
   "license": "MIT",
