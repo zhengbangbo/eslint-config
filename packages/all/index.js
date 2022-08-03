@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    '@zhengbangbo/eslint-config-basic',
+    '@zhengbangbo/eslint-config-ts',
   ],
 }
