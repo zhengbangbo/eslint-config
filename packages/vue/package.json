@@ -13,10 +13,7 @@
     "index.js"
   ],
   "dependencies": {
-    "@zhengbangbo/eslint-config-ts": "workspace:*"
-  },
-  "devDependencies": {
-    "eslint": "^8.16.0",
+    "@zhengbangbo/eslint-config-ts": "workspace:*",
     "eslint-plugin-vue": "^9.3.0"
   }
 }

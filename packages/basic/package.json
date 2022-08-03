@@ -24,8 +24,5 @@
     "eslint-plugin-yml": "^1.0.0",
     "jsonc-eslint-parser": "^2.1.0",
     "yaml-eslint-parser": "^1.0.1"
-  },
-  "devDependencies": {
-    "eslint": "^8.18.0"
   }
 }
