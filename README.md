@@ -1,4 +1,5 @@
 # @zhengbangbo/eslint-config
+[![npm](https://img.shields.io/npm/v/@zhengbangbo/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@antfu/eslint-config)
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
@@ -15,8 +16,20 @@
 pnpm add -D eslint @zhengbangbo/eslint-config
 ```
 
-### Config `.eslintrc`
+### Config `package.json` or  `.eslintrc`
 
+#### `package.json`
+```json
+{
+  "eslintConfig": {
+    "extends": [
+      "@zhengbangbo"
+    ]
+  }
+}
+```
+
+#### `.eslintrc`
 ```json
 {
   "extends": "@zhengbangbo"

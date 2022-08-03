@@ -12,6 +12,9 @@
   "files": [
     "index.js"
   ],
+  "dependencies": {
+    "@zhengbangbo/eslint-config-basic": "workspace:*"
+  },
   "devDependencies": {
     "eslint": "^8.18.0"
   }
