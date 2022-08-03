@@ -34,7 +34,6 @@ module.exports = {
   plugins: [
     'html',
     'unicorn',
-    'zhengbangbo',
   ],
   settings: {
     'import/resolver': {

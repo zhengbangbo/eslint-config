@@ -1,0 +1,18 @@
+{
+  "name": "@zhengbangbo/eslint-config",
+  "version": "0.0.2",
+  "description": "Bang-Bo's ESLint config presets",
+  "author": "Bang-Bo Zheng <zhengbangbo@hotmail.com> (https://github.com/zhengbangbo)",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/zhengbangbo/eslint-config",
+  "keywords": [
+    "eslint-config"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
