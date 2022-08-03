@@ -1,7 +1,7 @@
 {
-  "name": "@zhengbangbo/eslint-config",
+  "name": "@zhengbangbo/eslint-config-vue",
   "version": "0.0.5",
-  "description": "Bang-Bo's ESLint config presets",
+  "description": "",
   "author": "Bang-Bo Zheng <zhengbangbo@hotmail.com> (https://github.com/zhengbangbo)",
   "license": "MIT",
   "homepage": "https://github.com/zhengbangbo/eslint-config",
@@ -13,9 +13,10 @@
     "index.js"
   ],
   "dependencies": {
-    "@zhengbangbo/eslint-config-vue": "workspace:*"
+    "@zhengbangbo/eslint-config-ts": "workspace:*"
   },
   "devDependencies": {
-    "eslint": "^8.18.0"
+    "eslint": "^8.16.0",
+    "eslint-plugin-vue": "^9.3.0"
   }
 }
