@@ -13,9 +13,9 @@
     "index.js"
   ],
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.32.0",
-    "@typescript-eslint/parser": "^5.32.0",
+    "@typescript-eslint/eslint-plugin": "^5.39.0",
+    "@typescript-eslint/parser": "^5.39.0",
     "@zhengbangbo/eslint-config-basic": "workspace:*",
-    "typescript": "^4.7.4"
+    "typescript": "^4.8.4"
   }
 }

@@ -13,7 +13,7 @@
   "devDependencies": {
     "@zhengbangbo/eslint-config": "*",
     "bumpp": "^8.2.1",
-    "eslint": "^8.21.0"
+    "eslint": "^8.25.0"
   },
   "eslintConfig": {
     "extends": "@zhengbangbo"
