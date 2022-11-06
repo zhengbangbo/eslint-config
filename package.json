@@ -1,6 +1,6 @@
 {
   "name": "@zhengbangbo/eslint-config-monorepo",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "private": true,
   "packageManager": "pnpm@7.4.0",
   "author": "Bang-Bo Zheng <zhengbangbo@hotmail.com> (https://github.com/zhengbangbo)",
