@@ -1,6 +1,6 @@
 {
   "name": "@zhengbangbo/eslint-config-monorepo",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "private": true,
   "packageManager": "pnpm@7.4.0",
   "author": "Bang-Bo Zheng <zhengbangbo@hotmail.com> (https://github.com/zhengbangbo)",
@@ -13,7 +13,7 @@
   "devDependencies": {
     "@zhengbangbo/eslint-config": "*",
     "bumpp": "^8.2.1",
-    "eslint": "^8.25.0"
+    "eslint": "^8.27.0"
   },
   "eslintConfig": {
     "extends": "@zhengbangbo"
